@@ -23,7 +23,6 @@ class MainActivity : AppCompatActivity() {
         val appBarConfiguration = AppBarConfiguration(
             setOf(
                 R.id.homeFragment,
-                R.id.noteFragment,
                 R.id.noteListFragment,
                 R.id.weatherFragment
             )

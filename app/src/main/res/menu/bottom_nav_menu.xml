@@ -5,10 +5,6 @@
         android:icon="@drawable/ic_home"
         android:title="@string/homeFragmentLabel"/>
 
-    <item
-        android:id="@+id/noteFragment"
-        android:icon="@drawable/ic_note"
-        android:title="@string/noteFragmentLabel"/>
 
     <item
         android:id="@+id/noteListFragment"
